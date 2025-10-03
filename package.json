@@ -1,7 +1,8 @@
 {
-  "name": "tp2-lenguajes-iv",
+  "name": "tp4-lenguajes-iv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Diego07html.github.io/tp4-lenguajes-iv",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -42,6 +43,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
-  "homepage": "https://Diego07html.github.io/tp3-lenguajes-iv"
+  }
 }
